@@ -67,7 +67,7 @@ function App() {
               timeDimensions: [
                 {
                   dimension: "Orders.createdAt",
-                  dateRange: ["2017-01-01", "2018-12-31"],
+                  dateRange: ["2017-01-01", "2019-12-31"],
                   granularity: "month"
                 }
               ]
